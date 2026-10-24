@@ -1,0 +1,15 @@
+{
+	"name": "faisalADFproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "53a477da-9969-432b-bb05-e27b3ae78273",
+		"tenantId": "52d07dd6-be7d-4082-a981-5c7809dc5b0e"
+	}
+}
